@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'blog', #new
     'rest_framework', # new
     'search', #new
+    'django_elasticsearch_dsl', # new
 ]
 
 MIDDLEWARE = [
